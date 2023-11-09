@@ -1,0 +1,934 @@
+{
+	"features": {
+		"AntiAFK": {
+			"Swing": true,
+			"Turn": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AntiAFK",
+			"Enabled": false
+		},
+		"AntiFog": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AntiFog",
+			"Enabled": false
+		},
+		"AntiForceLook": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AntiForceLook",
+			"Enabled": false
+		},
+		"AntiHunger": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AntiHunger",
+			"Enabled": false
+		},
+		"AntiRain": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AntiRain",
+			"Enabled": false
+		},
+		"ArmourHUD": {
+			"Damage": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "ArmourHUD",
+			"Enabled": false
+		},
+		"Aura": {
+			"Targets": {
+				"categorised": {
+					"NONFRIENDLY_PLAYERS": { }
+				},
+				"specific": { }
+			},
+			"Hit Range": 5.5,
+			"Ignore Walls": true,
+			"Mode": "DYNAMIC",
+			"Tick Delay": 3,
+			"32k Switch": true,
+			"Only use 32k": false,
+			"Ignore nametagged": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Aura",
+			"Enabled": true
+		},
+		"Auto32k": {
+			"Move 32k to Hotbar": true,
+			"Auto enable Hit Aura": true,
+			"Place Range": 4.0,
+			"Y Offset (Hopper)": 2,
+			"Place close to enemy": false,
+			"Place Obi on Top": true,
+			"Debug Messages": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Auto32k",
+			"Enabled": false
+		},
+		"AutoArmour": {
+			"PreferElytra": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoArmour",
+			"Enabled": false
+		},
+		"AutoEat": {
+			// Use the threshold value to activate AutoEat instead of the food hunger value
+			"UseCustomThreshold": false,
+			// If the amount of free hunger points goes above this, AutoEat activates
+			"Threshold": 5,
+			"Priority": "HUNGER_RESTORED",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoEat",
+			"Enabled": false
+		},
+		"AutoFish": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoFish",
+			"Enabled": false
+		},
+		"AutoGG": {
+			"GgMessage": [
+				{
+					"obfuscated": false,
+					"bold": false,
+					"strike": false,
+					"underline": false,
+					"italic": false,
+					"shadow": true,
+					"extraspace": true,
+					"colourMode": "STATIC",
+					"type": "literal",
+					"value": "gg",
+					"colour": "ffffffff",
+					"digits": 0
+				}
+			],
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoGG",
+			"Enabled": false
+		},
+		"AutoJump": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoJump",
+			"Enabled": false
+		},
+		"AutoLog": {
+			"Health": 6,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoLog",
+			"Enabled": false
+		},
+		"AutoReconnect": {
+			"Seconds": 5,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoReconnect",
+			"Enabled": false
+		},
+		"AutoRespawn": {
+			"Respawn": true,
+			"DeathCoords": false,
+			"Anti Glitch Screen": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoRespawn",
+			"Enabled": false
+		},
+		"AutoTool": {
+			"PreferredWeapon": "AXE",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoTool",
+			"Enabled": false
+		},
+		"AutoTotem": {
+			// When enabled, AutoTotem will not replace your offhand if it's already carrying an item.
+			"Soft": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoTotem",
+			"Enabled": false
+		},
+		"AutoWalk": {
+			"Mode": "FORWARD",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "AutoWalk",
+			"Enabled": false
+		},
+		"BaritonePause": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "BaritonePause",
+			"Enabled": false
+		},
+		"Blink": {
+			// Will not attempt to send packets if you are more than 10 blocks away from where you blinked
+			"IsCancelable": true,
+			// Withhold all packets, not only Movement Packets
+			"WithholdAllPackets": true,
+			// How many packets are allowed to be cached before they all get canceled
+			"MaxPacketAmount": 50,
+			// Send packets gradually instead of all at once
+			"GradualPacketMode": false,
+			// The percent of cached packets to send per tick
+			"PercentOfPacketsPerTick": 50,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Blink",
+			"Enabled": false
+		},
+		"BossStack": {
+			"Hide boss bars": false,
+			"Fold": true,
+			"Spacing": 10,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "BossStack",
+			"Enabled": false
+		},
+		"Breadcrumbs": {
+			// Clear the trail when the module is disabled
+			"ClearOnDisable": true,
+			// Track trail even when the module is disabled
+			"TrackWhenDisabled": false,
+			// Draws the breadcrumbs line dashed
+			"DashedLine": true,
+			"Colour": "ffdb3333",
+			// The minimal distance between points
+			"Fineness": 0.1,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Breadcrumbs",
+			"Enabled": false
+		},
+		"Brightness": {
+			"Transition length": 1.0,
+			// The factor by which to multiply the final brightness. A factor of 1 indicates the normal night vision brightness.
+			"Factor": 1.0,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Brightness",
+			"Enabled": false
+		},
+		"Camera": {
+			"Distance from player": 4.0,
+			"Shift Y": 0.0,
+			"Clip through blocks": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Camera",
+			"Enabled": false
+		},
+		"Chams": {
+			"Players": true,
+			"Animals": false,
+			"Mobs": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Chams",
+			"Enabled": false
+		},
+		"ChatEncryption": {
+			"Mode": "SHUFFLE",
+			// The key to encrypt with. This must be the same for everyone trying to chat with eachother.
+			"Channel": 6,
+			"Delimiter": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "ChatEncryption",
+			"Enabled": false
+		},
+		"ChunkFinder": {
+			"YOffset": 0,
+			"Relative": true,
+			"SaveNewChunks": false,
+			"SaveOption": "extraFolder",
+			"SaveInRegionFolder": false,
+			"AlsoSaveNormalCoords": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "ChunkFinder",
+			"Enabled": false
+		},
+		"CustomChat": {
+			"Commands": false,
+			// Whether or not to use the default KAMI suffix, or the custom one.
+			"Custom suffix": false,
+			// uwuify the chat message
+			"uwuify": false,
+			"Suffix": " | KAMI",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "CustomChat",
+			"Enabled": false
+		},
+		"DiscordRPC": {
+			"FirstLine": [],
+			"SecondLine": [],
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "DiscordRPC",
+			"Enabled": false
+		},
+		"ESP": {
+			"Blurred": false,
+			"Entities": {
+				"categorised": {
+					"ALL_PLAYERS": "ffffffff"
+				},
+				"specific": { }
+			},
+			"Block entities": {
+				"categorised": {
+					"CHESTS": "ffeace47"
+				},
+				"specific": { }
+			},
+			"Blocks": {
+				"categorised": {
+					"ORES": {
+						"solid": true,
+						"outline": false,
+						"outlineColour": "ffffffff"
+					}
+				},
+				"specific": {
+					"minecraft:diamond_block": {
+						"solid": true,
+						"outline": true,
+						"outlineColour": "ffffffff"
+					}
+				}
+			},
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "ESP",
+			"Enabled": false
+		},
+		"ElytraFlight": {
+			"Mode": "BOOST",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "ElytraFlight",
+			"Enabled": false
+		},
+		"EntitySpeed": {
+			"Speed": 1.0,
+			"AntiStuck": true,
+			"Flight": false,
+			"Wobble": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "EntitySpeed",
+			"Enabled": false
+		},
+		"ExtraTab": {
+			"TabSize": 80,
+			"HighlightFriends": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "ExtraTab",
+			"Enabled": false
+		},
+		"Fastbreak": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Fastbreak",
+			"Enabled": false
+		},
+		"Fastplace": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Fastplace",
+			"Enabled": false
+		},
+		"Flight": {
+			"Speed": 1.0,
+			"Mode": "VANILLA",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Flight",
+			"Enabled": false
+		},
+		"Freecam": {
+			"Speed": 2.0,
+			// Whether or not the real player should still respond to inputs
+			"BlockInputs": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Freecam",
+			"Enabled": false
+		},
+		"ItemHighlight": {
+			"HighlightedItems": {
+				"categorised": {
+					"FOOD": "ffffff00"
+				},
+				"specific": { }
+			},
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "ItemHighlight",
+			"Enabled": false
+		},
+		"Jesus": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Jesus",
+			"Enabled": false
+		},
+		"MountBypass": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "MountBypass",
+			"Enabled": false
+		},
+		"MurderMysteries": {
+			"InnocuousItems": true,
+			"WeaponItems": true,
+			"ToolItems": true,
+			"DetectiveItems": false,
+			// Ignore wooden shovels from ToolItems
+			"IgnoreWoodenShovel": false,
+			// How often it will say who is murderer
+			"CooldownOnOutput": 8.0,
+			// Say who the murderer is in chat (WARNING: VERY EVIDENT YOU ARE USING THIS MODULE)
+			"AnnounceMode": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "MurderMysteries",
+			"Enabled": false
+		},
+		"Nametags": {
+			"Targets": {
+				"categorised": {
+					"PASSIVE": {
+						"health": false,
+						"distance": false,
+						"items": "NONE",
+						"colour": "4c4cff4c"
+					},
+					"HOSTILE": {
+						"health": true,
+						"distance": false,
+						"items": "NONE",
+						"colour": "bfff4c4c"
+					},
+					"ALL_PLAYERS": {
+						"health": true,
+						"distance": true,
+						"items": "JUST_ITEMS",
+						"colour": "ffffffff"
+					}
+				},
+				"specific": { }
+			},
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Nametags",
+			"Enabled": false
+		},
+		"NoEntityTrace": {
+			"TraceMode": "DYNAMIC",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "NoEntityTrace",
+			"Enabled": false
+		},
+		"NoFall": {
+			"Packet": false,
+			"Bucket": true,
+			"Distance": 15,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "NoFall",
+			"Enabled": false
+		},
+		"NoHurtCam": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "NoHurtCam",
+			"Enabled": false
+		},
+		"NoPacketKick": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "NoPacketKick",
+			"Enabled": false
+		},
+		"NoRender": {
+			"Mobs": false,
+			"Objects": false,
+			"ExperienceOrbs": true,
+			"Fire": true,
+			"Explosions": true,
+			"BeaconBeams": false,
+			"SkyLightUpdates": true,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "NoRender",
+			"Enabled": false
+		},
+		"NoSlowDown": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "NoSlowDown",
+			"Enabled": false
+		},
+		"Notebot": {
+			"Channel 0": "HAT",
+			"Channel 1": "HAT",
+			"Channel 2": "HAT",
+			"Channel 3": "HAT",
+			"Channel 4": "HAT",
+			"HatAlwaysAsFSharp": true,
+			// Name of MIDI file in the songs folder of your .minecraft directory
+			"SongName": "song_name.mid",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Notebot",
+			"Enabled": false
+		},
+		"Nuker": {
+			"UsePlayerRange": true,
+			"HitRange": 4.0,
+			"ThroughBlocks": false,
+			// Select the best tool for the block being broken
+			"SelectTool": false,
+			// Only break blocks that can be instantly broken
+			"OnlyInstant": false,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Nuker",
+			"Enabled": false
+		},
+		"PitchLock": {
+			"Auto": true,
+			"Pitch": 180.0,
+			"Slice": 8,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "PitchLock",
+			"Enabled": false
+		},
+		"PortalChat": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "PortalChat",
+			"Enabled": false
+		},
+		"PortalGodMode": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "PortalGodMode",
+			"Enabled": false
+		},
+		"SafeWalk": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "SafeWalk",
+			"Enabled": false
+		},
+		"Scaffold": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Scaffold",
+			"Enabled": false
+		},
+		"SignSpammer": {
+			"Line1": "",
+			"Line2": "",
+			"Line3": "",
+			"Line4": "",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "SignSpammer",
+			"Enabled": false
+		},
+		"SkinFlicker": {
+			"Mode": "HORIZONTAL",
+			"Slowness": 2,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "SkinFlicker",
+			"Enabled": false
+		},
+		"Sprint": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Sprint",
+			"Enabled": false
+		},
+		"Timer": {
+			"Speed": 2.0,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Timer",
+			"Enabled": false
+		},
+		"TpsSync": {
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "TpsSync",
+			"Enabled": false
+		},
+		"Tracers": {
+			"Targets": {
+				"categorised": {
+					"ALL_PLAYERS": "ffffffff"
+				},
+				"specific": { }
+			},
+			"Range": 200.0,
+			"Thickness": 1.5,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Tracers",
+			"Enabled": false
+		},
+		"Trajectories": {
+			"LineColour": "ffffffff",
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Trajectories",
+			"Enabled": false
+		},
+		"Velocity": {
+			"Horizontal": 0.0,
+			"Vertical": 0.0,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "Velocity",
+			"Enabled": false
+		},
+		"YawLock": {
+			"Auto": true,
+			"Yaw": 180.0,
+			"Slice": 8,
+			"Show in active modules": true,
+			"Bind": "key.keyboard.unknown",
+			"DisplayName": "YawLock",
+			"Enabled": false
+		}
+	},
+	"Windows": {
+		"0-Misc": {
+			"Misc": [
+				"AntiAFK",
+				"AntiRain",
+				"AutoFish",
+				"AutoGG",
+				"AutoReconnect",
+				"AutoRespawn",
+				"AutoTool",
+				"BaritonePause",
+				"BossStack",
+				"ChatEncryption",
+				"CustomChat",
+				"DiscordRPC",
+				"MurderMysteries",
+				"NoEntityTrace",
+				"NoPacketKick",
+				"Notebot",
+				"PortalChat",
+				"SignSpammer",
+				"SkinFlicker",
+				"Timer"
+			]
+		},
+		"1-Render": {
+			"Render": [
+				"AntiFog",
+				"ArmourHUD",
+				"Breadcrumbs",
+				"Brightness",
+				"Camera",
+				"Chams",
+				"ChunkFinder",
+				"ESP",
+				"ExtraTab",
+				"ItemHighlight",
+				"Nametags",
+				"NoHurtCam",
+				"NoRender",
+				"Tracers",
+				"Trajectories"
+			]
+		},
+		"2-Player": {
+			"Player": [
+				"AntiForceLook",
+				"AutoArmour",
+				"AutoEat",
+				"AutoJump",
+				"AutoWalk",
+				"Blink",
+				"Fastbreak",
+				"Fastplace",
+				"Freecam",
+				"MountBypass",
+				"NoFall",
+				"Nuker",
+				"PitchLock",
+				"PortalGodMode",
+				"Scaffold",
+				"TpsSync",
+				"YawLock"
+			]
+		},
+		"3-Movement": {
+			"Movement": [
+				"AntiHunger",
+				"ElytraFlight",
+				"EntitySpeed",
+				"Flight",
+				"Jesus",
+				"NoSlowDown",
+				"SafeWalk",
+				"Sprint",
+				"Velocity"
+			]
+		},
+		"4-Combat": {
+			"Combat": [
+				"Aura",
+				"Auto32k",
+				"AutoLog",
+				"AutoTotem"
+			]
+		}
+	},
+	"Friends": [],
+	"FirstTime": false,
+	"SettingsWindowOpen": false,
+	"CommandPrefix": ".",
+	"OpenChatWhenCommandPrefixPressed": true,
+	"ModifiersEnabled": false,
+	"OpenSettingsInPopup": true,
+	"SwapModuleListButtons": false,
+	"HideModuleDescriptions": false,
+	"OpenGuiAnywhere": false,
+	"Font": 0,
+	"RainbowMode": false,
+	"StyleIdx": 0,
+	"BorderOffset": 10.0,
+	"RainbowSpeed": 0.1,
+	"RainbowSaturation": 0.5,
+	"RainbowBrightness": 1.0,
+	"DemoWindowInView": false,
+	"HudWithDebug": false,
+	"ModuleAlignment": "CENTER",
+	"clickGui": {
+		"Bind": "key.keyboard.y",
+		"HideAll": false,
+		"Widgets": [
+			{
+				"texts": [
+					[
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "client",
+							"colour": "ffffffff",
+							"digits": 0
+						},
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": false,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "version",
+							"colour": "ffffffff",
+							"digits": 0
+						}
+					],
+					[
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "fps",
+							"colour": "ffffffff",
+							"digits": 0
+						},
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "literal",
+							"value": "fps",
+							"colour": "a3ffffff",
+							"digits": 0
+						},
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "tps",
+							"colour": "ffffffff",
+							"digits": 0
+						},
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": false,
+							"colourMode": "STATIC",
+							"type": "literal",
+							"value": "tps",
+							"colour": "a3ffffff",
+							"digits": 0
+						}
+					]
+				],
+				"title": "Information",
+				"position": "TOP_LEFT",
+				"alignment": "LEFT",
+				"ordering": "ORIGINAL"
+			},
+			{
+				"texts": [
+					[
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "facing_axis",
+							"colour": "ffffffff",
+							"digits": 0
+						},
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "x",
+							"colour": "a3ffffff",
+							"digits": 0
+						},
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "y",
+							"colour": "a3ffffff",
+							"digits": 0
+						},
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": true,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "z",
+							"colour": "a3ffffff",
+							"digits": 0
+						}
+					]
+				],
+				"title": "Coordinates",
+				"position": "BOTTOM_LEFT",
+				"alignment": "LEFT",
+				"ordering": "ORIGINAL"
+			},
+			{
+				"texts": [
+					[
+						{
+							"obfuscated": false,
+							"bold": false,
+							"strike": false,
+							"underline": false,
+							"italic": false,
+							"shadow": true,
+							"extraspace": false,
+							"colourMode": "STATIC",
+							"type": "variable",
+							"value": "modules",
+							"colour": "ffffffff",
+							"digits": 0
+						}
+					]
+				],
+				"title": "Active modules",
+				"position": "TOP_RIGHT",
+				"alignment": "RIGHT",
+				"ordering": "ORIGINAL"
+			}
+		],
+		"PlayerOverlays": [],
+		"InventoryOverlays": [],
+		"Graphs": []
+	},
+	"view": {
+		"ModulesOpen": true,
+		"ConsoleOpen": false,
+		"DemoWindowVisible": false
+	}
+}

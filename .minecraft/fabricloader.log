@@ -1,0 +1,20 @@
+[18:14:19] [ERROR] [FabricLoader/]: Uncaught exception in thread "main"
+net.fabricmc.loader.impl.util.ExceptionUtil$WrappedException: java.io.IOException: error reading C:\Users\aptem\AppData\Roaming\.minecraft\versions\fabric-loader-0.14.23-1.16.5\fabric-loader-0.14.23-1.16.5.jar
+	at net.fabricmc.loader.impl.util.ExceptionUtil.wrap(ExceptionUtil.java:51)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.locateGame(MinecraftGameProvider.java:238)
+	at net.fabricmc.loader.impl.launch.knot.Knot.createGameProvider(Knot.java:175)
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:130)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:68)
+	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+Caused by: java.io.IOException: error reading C:\Users\aptem\AppData\Roaming\.minecraft\versions\fabric-loader-0.14.23-1.16.5\fabric-loader-0.14.23-1.16.5.jar
+	at net.fabricmc.loader.impl.game.LibClassifier.process(LibClassifier.java:216)
+	at net.fabricmc.loader.impl.game.LibClassifier.process(LibClassifier.java:163)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.locateGame(MinecraftGameProvider.java:187)
+	... 4 more
+Caused by: java.util.zip.ZipException: zip file is empty
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:220)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:150)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:164)
+	at net.fabricmc.loader.impl.game.LibClassifier.process(LibClassifier.java:203)
+	... 6 more

@@ -1,0 +1,12 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 14697858374603356102,
+  "formatVersion" : 0,
+  "locale" : "ru-RU",
+  "productLibraryDir" : "C:\\Users\\aptem\\AppData\\Local\\Mojang\\products",
+  "quickPlayEnabled" : false,
+  "useArm64JreIfSupported" : false,
+  "useMagnifiedMode" : false,
+  "version" : 5
+}
